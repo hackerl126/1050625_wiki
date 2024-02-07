@@ -1,4 +1,4 @@
 - **蝶**
-    - [南美无尾麝馨凤蝶（拟红纹芷凤蝶）](butterflies/南美无尾麝馨凤蝶(拟红纹芷凤蝶).md)
-    - [红珠凤蝶](butterflies/红珠凤蝶.md)
-    - [黑脉峡蝶](butterflies/黑脉峡蝶.md)
+    - [南美无尾麝馨凤蝶（拟红纹芷凤蝶）](mdfiles/butterflies/南美无尾麝馨凤蝶(拟红纹芷凤蝶).md)
+    - [红珠凤蝶](mdfiles/butterflies/红珠凤蝶.md)
+    - [黑脉峡蝶](mdfiles/butterflies/黑脉峡蝶.md)
